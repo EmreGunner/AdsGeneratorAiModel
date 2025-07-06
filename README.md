@@ -28,3 +28,4 @@
 2. **API** – Use the provided endpoint and code examples under the **Run with an API** tab  
 
 ### Sample Prompt
+ad A sleek billboard ad showcasing our new eco-friendly sneakers in motion against an urban skyline with bold, minimalist typography, high contrast, vibrant colors, and a polished, modern feel.
